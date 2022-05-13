@@ -1,0 +1,6 @@
+Laboratory work #4
+Determination eigenvalues and vectors using iterative methods:
+Newton
+Jacoby
+Zeydel
+SOR method

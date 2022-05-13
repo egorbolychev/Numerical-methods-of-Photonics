@@ -1,0 +1,4 @@
+Laboratory work #6
+Determining the minimum of the function using:
+Gradiend descent method
+Newton method

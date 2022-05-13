@@ -1,0 +1,4 @@
+Laboratory work #3
+Approximation of functions using:
+Fourier series
+Chebyshev polynoms

@@ -1,0 +1,5 @@
+Laboratory work #2
+Solving sysstems of linear equations using Iterations methods of:
+Jacoby
+Zeidel
+SOR method
