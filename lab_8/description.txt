@@ -1,0 +1,3 @@
+Solving differential equations using itarative methods:
+Runge-Kutta
+Adams-Bashforth
